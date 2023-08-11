@@ -10,9 +10,9 @@ const heroContent = {
   heroMobileImage: heroImgMobile,
   heroTitleName: "Kamil Shahzad",
   heroDesignation: "Web Developer",
-  heroDescriptions: `I'm a Pakistan based Web Developer , Freelancer and Writer. Founder of HLC Solutions. Focused on
+  heroDescriptions: `I'm a Pakistan based Web Developer and Writer.Focused on
   crafting clean & user‑friendly experiences websites and rank them on Google. I am passionate about
-  building excellent websites that help the businesses to grow quickly and professionally.`,
+  building excellent websites that help the businesses to grow quickly and professionally. Additionally loves to write`,
   heroBtn: "Read More",
 };
 
