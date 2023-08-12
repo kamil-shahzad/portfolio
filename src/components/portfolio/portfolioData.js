@@ -1,12 +1,19 @@
-import Image1 from "../../assets/img/portfolio/klgstat.PNG";
+import Image1 from "../../assets/img/portfolio/klgstat.png";
 import Image2 from "../../assets/img/portfolio/project-exo.png";
 import Image3 from "../../assets/img/portfolio/uim.png";
 import Image4 from "../../assets/img/portfolio/project-4.PNG";
-import Image5 from "../../assets/img/portfolio/project-jafab.jpeg";
+import Image5 from "../../assets/img/portfolio/jaa.png";
 import Image6 from "../../assets/img/portfolio/klg.PNG";
 import Image7 from "../../assets/img/portfolio/aa.png";
 import Image8 from "../../assets/img/portfolio/react.jpg";
 import Image9 from "../../assets/img/portfolio/login.png";
+import Image10 from "../../assets/img/portfolio/vector.png";
+import Image11 from "../../assets/img/portfolio/ppl.png";
+import Image12 from "../../assets/img/portfolio/H.png";
+import Image13 from "../../assets/img/portfolio/tresablack.png";
+import Image14 from "../../assets/img/portfolio/brain.PNG";
+import Image15 from "../../assets/img/portfolio/sofa.png";
+
 
 const PortfolioData = [
   {
@@ -149,6 +156,118 @@ const PortfolioData = [
         client: "Software Company",
         language: "HTML, CSS, Javascript , React JS",
         link: "https://github.com/kamil-shahzad/managementsystem",
+      },
+    ],
+  },
+  {
+    id: 10,
+    type: "HELPARA REACT LANDING PAGE",
+    image: Image10,
+    tag: ["graphic design"],
+    delayAnimation: "100",
+    modalDetails: [
+      {
+        project: "https://helpara.com/",
+        client: "Own",
+        language: "REACT JS",
+        preview: "REACT JS",
+        link: "NILL",
+      },
+    ],
+  },
+  {
+    id: 11,
+    type: "overwatch American organization",
+    image: Image11,
+    tag: ["graphic design"],
+    delayAnimation: "100",
+    modalDetails: [
+      {
+        project: "https://303ow.team/",
+        client: "Own",
+        language: "REACT JS",
+        preview: "REACT JS",
+        link: "NILL",
+      },
+    ],
+  },
+  {
+    id: 12,
+    type: "Payment Processing",
+    image: Image12,
+    tag: ["logo", "mockup" , "wordpress"],
+    delayAnimation: "200",
+    modalDetails: [
+      {
+        project: "Service Provider",
+        client: "Hashir Technology",
+        language: "WordPress",
+        preview: "www.pexels.com",
+        link: "https://staging.ovextech.com/payment/",
+      },
+    ],
+  },
+  {
+    id: 13,
+    type: "Construction Company",
+    image: Image13,
+    tag: ["logo", "video" , "wordpress" , "ecommerce"],
+    delayAnimation: "100",
+    modalDetails: [
+      {
+        project: "Tresa Global",
+        client: "exotikal",
+        language: "WordPress, Woocomerce",
+        preview: "www.videohive.net",
+        link: "https://tresaglobal.com",
+      },
+    ],
+  },
+  {
+    id: 13,
+    type: "Local Store",
+    image: Image13,
+    tag: ["logo", "video" , "wordpress" , "ecommerce"],
+    delayAnimation: "100",
+    modalDetails: [
+      {
+        project: "Sunny Miracles",
+        client: "sunny",
+        language: "WordPress, Woocomerce",
+        preview: "www.videohive.net",
+        link: "https://sunnymiracles.org",
+      },
+    ],
+  },
+  {
+    id: 14,
+    type: "Blogging",
+    image: Image14,
+    tag: ["logo", "video" , "wordpress" , "ecommerce"],
+    delayAnimation: "100",
+    modalDetails: [
+      {
+        project: "Blogging Website",
+        client: "brainontrain",
+        language: "WordPress, Woocomerce",
+        preview: "www.videohive.net",
+        link: "https://brainontrain.fun",
+      },
+    ],
+  },
+  {
+    id: 15,
+    type: "Ecomerce",
+    image: Image15,
+    tag: ["logo", "video" , "wordpress" , "ecommerce"],
+    delayAnimation: "100",
+    modalDetails: [
+      {
+        project: "Ecommerce Website",
+        client: "decorup",
+        language: "WordPress, Woocomerce",
+        preview: "www.videohive.net",
+        link: "https://decorup.pk",
       },
     ],
   },
