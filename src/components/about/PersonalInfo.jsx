@@ -7,9 +7,9 @@ const personalInfoContent = [
   { meta: "Nationality", metaInfo: "Pakistani" },
   { meta: "Freelance", metaInfo: "Available" },
   { meta: "Address", metaInfo: "Saddar, Rawalpindi" },
-  { meta: "phone", metaInfo: "+923155780434" },
+  { meta: "phone", metaInfo: "+92 315 5780434" },
   { meta: "Email", metaInfo: "kamil.shahzad456@gmail.com" },
-  { meta: "langages", metaInfo: "English , Urdu, Punjabi" },
+  { meta: "langages", metaInfo: "English, Urdu, Punjabi" },
 ];
 
 const PersonalInfo = () => {

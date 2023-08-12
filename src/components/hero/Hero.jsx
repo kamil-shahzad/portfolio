@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Modal from "react-modal";
 import heroImg from "../../assets/img/hero/kamil.jpg";
-import heroImgMobile from "../../assets/img/hero/img-mobile.jpg";
+import heroImgMobile from "../../assets/img/hero/kamil.jpg";
 import cancelImg from "../../assets/img/cancel.svg";
 import Index from "../../components/about/index";
 
@@ -10,9 +10,10 @@ const heroContent = {
   heroMobileImage: heroImgMobile,
   heroTitleName: "Kamil Shahzad",
   heroDesignation: "Web Developer",
-  heroDescriptions: `I'm a Pakistan based Web Developer and Writer.Focused on
-  crafting clean & user‑friendly experiences websites and rank them on Google. I am passionate about
-  building excellent websites that help the businesses to grow quickly and professionally. Additionally loves to write`,
+  heroDescriptions: `I'm a Pakistan based Web Developer and Writer. Focused on
+  crafting sleek, professional,
+  clean & user‑friendly websites and rank them on Google searches. 
+  I help the businesses to grow quickly and professionally. Additionally loves to write my thoughts onto the paper.`,
   heroBtn: "Read More",
 };
 

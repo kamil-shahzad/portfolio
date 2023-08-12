@@ -43,21 +43,21 @@ const Modal = ({ modalId, setGetModal }) => {
                         </div>
                         <div className="col-12 col-sm-6 mb-2">
                           <i className="fa fa-user-o pr-2"></i>
-                          Client :{" "}
+                          Client:{" "}
                           <span className="ft-wt-600 uppercase">
                             {details.client}
                           </span>
                         </div>
                         <div className="col-12 col-sm-6 mb-2">
                           <i className="fa fa-code pr-2"></i>
-                          Language :{" "}
+                          Language:{" "}
                           <span className="ft-wt-600 uppercase">
                             {details.language}
                           </span>
                         </div>
                         <div className="col-12 col-sm-6 mb-2">
                           <i className="fa fa-external-link pr-2"></i>
-                          Preview :{" "}
+                          Preview:{" "}
                           <a
                             className="preview-link"
                             target="_blank"
@@ -112,21 +112,21 @@ const Modal = ({ modalId, setGetModal }) => {
                         </div>
                         <div className="col-12 col-sm-6 mb-2">
                           <i className="fa fa-user-o pr-2"></i>
-                          Client :{" "}
+                          Client:{" "}
                           <span className="ft-wt-600 uppercase">
                             {details.client}
                           </span>
                         </div>
                         <div className="col-12 col-sm-6 mb-2">
                           <i className="fa fa-code pr-2"></i>
-                          Language :{" "}
+                          Language:{" "}
                           <span className="ft-wt-600 uppercase">
                             {details.language}
                           </span>
                         </div>
                         <div className="col-12 col-sm-6 mb-2">
                           <i className="fa fa-external-link pr-2"></i>
-                          Preview :{" "}
+                          Preview:{" "}
                           <a
                             className="preview-link"
                             target="_blank"
@@ -187,21 +187,21 @@ const Modal = ({ modalId, setGetModal }) => {
                         </div>
                         <div className="col-12 col-sm-6 mb-2">
                           <i className="fa fa-user-o pr-2"></i>
-                          Client :{" "}
+                          Client:{" "}
                           <span className="ft-wt-600 uppercase">
                             {details.client}
                           </span>
                         </div>
                         <div className="col-12 col-sm-6 mb-2">
                           <i className="fa fa-code pr-2"></i>
-                          Language :{" "}
+                          Language:{" "}
                           <span className="ft-wt-600 uppercase">
                             {details.language}
                           </span>
                         </div>
                         <div className="col-12 col-sm-6 mb-2">
                           <i className="fa fa-external-link pr-2"></i>
-                          Preview :{" "}
+                          Preview:{" "}
                           <a
                             className="preview-link"
                             target="_blank"
@@ -267,21 +267,21 @@ const Modal = ({ modalId, setGetModal }) => {
                         </div>
                         <div className="col-12 col-sm-6 mb-2">
                           <i className="fa fa-user-o pr-2"></i>
-                          Client :{" "}
+                          Client:{" "}
                           <span className="ft-wt-600 uppercase">
                             {details.client}
                           </span>
                         </div>
                         <div className="col-12 col-sm-6 mb-2">
                           <i className="fa fa-code pr-2"></i>
-                          Language :{" "}
+                          Language:{" "}
                           <span className="ft-wt-600 uppercase">
                             {details.language}
                           </span>
                         </div>
                         <div className="col-12 col-sm-6 mb-2">
                           <i className="fa fa-external-link pr-2"></i>
-                          Preview :{" "}
+                          Preview:{" "}
                           <a
                             className="preview-link"
                             target="_blank"
@@ -346,21 +346,21 @@ const Modal = ({ modalId, setGetModal }) => {
                         </div>
                         <div className="col-12 col-sm-6 mb-2">
                           <i className="fa fa-user-o pr-2"></i>
-                          Client :{" "}
+                          Client:{" "}
                           <span className="ft-wt-600 uppercase">
                             {details.client}
                           </span>
                         </div>
                         <div className="col-12 col-sm-6 mb-2">
                           <i className="fa fa-code pr-2"></i>
-                          Language :{" "}
+                          Language:{" "}
                           <span className="ft-wt-600 uppercase">
                             {details.language}
                           </span>
                         </div>
                         <div className="col-12 col-sm-6 mb-2">
                           <i className="fa fa-external-link pr-2"></i>
-                          Preview :{" "}
+                          Preview:{" "}
                           <a
                             className="preview-link"
                             target="_blank"
@@ -416,21 +416,21 @@ const Modal = ({ modalId, setGetModal }) => {
                         </div>
                         <div className="col-12 col-sm-6 mb-2">
                           <i className="fa fa-user-o pr-2"></i>
-                          Client :{" "}
+                          Client:{" "}
                           <span className="ft-wt-600 uppercase">
                             {details.client}
                           </span>
                         </div>
                         <div className="col-12 col-sm-6 mb-2">
                           <i className="fa fa-code pr-2"></i>
-                          Language :{" "}
+                          Language:{" "}
                           <span className="ft-wt-600 uppercase">
                             {details.language}
                           </span>
                         </div>
                         <div className="col-12 col-sm-6 mb-2">
                           <i className="fa fa-external-link pr-2"></i>
-                          Preview :{" "}
+                          Preview:{" "}
                           <a
                             className="preview-link"
                             target="_blank"
@@ -486,21 +486,21 @@ const Modal = ({ modalId, setGetModal }) => {
                         </div>
                         <div className="col-12 col-sm-6 mb-2">
                           <i className="fa fa-user-o pr-2"></i>
-                          Client :{" "}
+                          Client:{" "}
                           <span className="ft-wt-600 uppercase">
                             {details.client}
                           </span>
                         </div>
                         <div className="col-12 col-sm-6 mb-2">
                           <i className="fa fa-code pr-2"></i>
-                          Language :{" "}
+                          Language:{" "}
                           <span className="ft-wt-600 uppercase">
                             {details.language}
                           </span>
                         </div>
                         <div className="col-12 col-sm-6 mb-2">
                           <i className="fa fa-external-link pr-2"></i>
-                          Preview :{" "}
+                          Preview:{" "}
                           <a
                             className="preview-link"
                             target="_blank"
@@ -556,21 +556,21 @@ const Modal = ({ modalId, setGetModal }) => {
                         </div>
                         <div className="col-12 col-sm-6 mb-2">
                           <i className="fa fa-user-o pr-2"></i>
-                          Client :{" "}
+                          Client:{" "}
                           <span className="ft-wt-600 uppercase">
                             {details.client}
                           </span>
                         </div>
                         <div className="col-12 col-sm-6 mb-2">
                           <i className="fa fa-code pr-2"></i>
-                          Language :{" "}
+                          Language:{" "}
                           <span className="ft-wt-600 uppercase">
                             {details.language}
                           </span>
                         </div>
                         <div className="col-12 col-sm-6 mb-2">
                           <i className="fa fa-external-link pr-2"></i>
-                          Preview :{" "}
+                          Preview:{" "}
                           <a
                             className="preview-link"
                             target="_blank"
@@ -626,21 +626,21 @@ const Modal = ({ modalId, setGetModal }) => {
                         </div>
                         <div className="col-12 col-sm-6 mb-2">
                           <i className="fa fa-user-o pr-2"></i>
-                          Client :{" "}
+                          Client:{" "}
                           <span className="ft-wt-600 uppercase">
                             {details.client}
                           </span>
                         </div>
                         <div className="col-12 col-sm-6 mb-2">
                           <i className="fa fa-code pr-2"></i>
-                          Language :{" "}
+                          Language:{" "}
                           <span className="ft-wt-600 uppercase">
                             {details.language}
                           </span>
                         </div>
                         <div className="col-12 col-sm-6 mb-2">
                           <i className="fa fa-external-link pr-2"></i>
-                          Preview :{" "}
+                          Preview:{" "}
                           <a
                             className="preview-link"
                             target="_blank"

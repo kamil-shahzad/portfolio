@@ -1,26 +1,24 @@
 import React from "react";
+import { SassColor } from "sass";
 
 const educationContent = [
   {
     year: "2015",
     degree: "ENGINEERING DEGREE",
-    institute: "OXFORD UNIVERSITY",
-    details: `  Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore
-        adipisicing elit`,
+    institute: "NUML University",
+    details: `Completed degree with the CGPA of 3.1`,
   },
   {
     year: "2012",
-    degree: "MASTER DEGREE",
-    institute: "KIEV UNIVERSITY",
-    details: `Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol
-        elit, tempor incididunt`,
+    degree: "FSC Degree",
+    institute: "FG Inter College",
+    details: `Complete the degree with pre-engineering subjects`,
   },
   {
     year: "2009",
-    degree: "BACHELOR DEGREE ",
-    institute: "TUNIS HIGH SCHOOL",
-    details: `Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur
-        elit, sed do eiusmod tempor duntt`,
+    degree: "Martriculation DEGREE ",
+    institute: "ARMY PUBLIC SCHOOL",
+    details: `Completed school with computer science subjects`,
   },
 ];
 
@@ -30,12 +28,12 @@ const Education = () => {
       {educationContent.map((val, i) => (
         <li key={i}>
           <div className="icon">
-            <i className="fa fa-briefcase"></i>
+            <i className="fa fa-graduation-cap"></i>
           </div>
           <span className="time open-sans-font text-uppercase">{val.year}</span>
-          <h5 className="poppins-font text-uppercase">
-            {val.degree}
-            <span className="place open-sans-font">{val.institute}</span>
+          <h5 className="poppins-font text-uppercase" >
+            {val.degree}<br/>
+            <span className="place open-sans-font yello">{val.institute}</span>
           </h5>
           <p className="open-sans-font">{val.details}</p>
         </li>
