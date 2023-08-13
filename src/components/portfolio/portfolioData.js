@@ -1,5 +1,5 @@
 import Image1 from "../../assets/img/portfolio/klgstat.png";
-import Image2 from "../../assets/img/portfolio/project-exo.png";
+import Image2 from "../../assets/img/portfolio/red.png";
 import Image3 from "../../assets/img/portfolio/uim.png";
 import Image4 from "../../assets/img/portfolio/project-4.PNG";
 import Image5 from "../../assets/img/portfolio/jaa.png";
@@ -11,8 +11,9 @@ import Image10 from "../../assets/img/portfolio/vector.png";
 import Image11 from "../../assets/img/portfolio/ppl.png";
 import Image12 from "../../assets/img/portfolio/H.png";
 import Image13 from "../../assets/img/portfolio/tresablack.png";
-import Image14 from "../../assets/img/portfolio/brain.PNG";
-import Image15 from "../../assets/img/portfolio/sofa.png";
+import Image14 from "../../assets/img/portfolio/sunny.PNG";
+import Image15 from "../../assets/img/portfolio/brain.PNG";
+import Image16 from "../../assets/img/portfolio/sofa.png";
 
 
 const PortfolioData = [
@@ -36,15 +37,15 @@ const PortfolioData = [
     id: 2,
     type: "FRUIT STORE",
     image: Image2,
-    tag: ["logo", "video" , "wordpress" , "ecommerce"],
+    tag: ["landingpages" ,"wordpress"],
     delayAnimation: "100",
     modalDetails: [
       {
-        project: "Fruit Selling Store",
-        client: "exotikal",
-        language: "WordPress, Woocomerce",
-        preview: "www.videohive.net",
-        link: "https://www.staging.ovextech.com/Exotikal",
+        project: "FRUIT STORE",
+        client: "EXOTIKAL",
+        language: "WordPress",
+        preview: "http://staging.ovextech.com/Exotical",
+        link: "http://staging.ovextech.com/Exotical",
       },
     ],
   },
@@ -202,7 +203,7 @@ const PortfolioData = [
         project: "Service Provider",
         client: "Hashir Technology",
         language: "WordPress",
-        preview: "www.pexels.com",
+        preview: "https://staging.ovextech.com/payment/",
         link: "https://staging.ovextech.com/payment/",
       },
     ],
@@ -218,15 +219,15 @@ const PortfolioData = [
         project: "Tresa Global",
         client: "exotikal",
         language: "WordPress, Woocomerce",
-        preview: "www.videohive.net",
+        preview: "https://tresaglobal.com",
         link: "https://tresaglobal.com",
       },
     ],
   },
   {
-    id: 13,
+    id: 14,
     type: "Local Store",
-    image: Image13,
+    image: Image14,
     tag: ["logo", "video" , "wordpress" , "ecommerce"],
     delayAnimation: "100",
     modalDetails: [
@@ -234,7 +235,7 @@ const PortfolioData = [
         project: "Sunny Miracles",
         client: "sunny",
         language: "WordPress, Woocomerce",
-        preview: "www.videohive.net",
+        preview: "https://sunnymiracles.org",
         link: "https://sunnymiracles.org",
       },
     ],
@@ -242,7 +243,7 @@ const PortfolioData = [
   {
     id: 14,
     type: "Blogging",
-    image: Image14,
+    image: Image15,
     tag: ["logo", "video" , "wordpress" , "ecommerce"],
     delayAnimation: "100",
     modalDetails: [
@@ -250,15 +251,15 @@ const PortfolioData = [
         project: "Blogging Website",
         client: "brainontrain",
         language: "WordPress, Woocomerce",
-        preview: "www.videohive.net",
+        preview: "https://brainontrain.fun",
         link: "https://brainontrain.fun",
       },
     ],
   },
   {
     id: 15,
-    type: "Ecomerce",
-    image: Image15,
+    type: "Ecommerce",
+    image: Image16,
     tag: ["logo", "video" , "wordpress" , "ecommerce"],
     delayAnimation: "100",
     modalDetails: [
@@ -266,7 +267,7 @@ const PortfolioData = [
         project: "Ecommerce Website",
         client: "decorup",
         language: "WordPress, Woocomerce",
-        preview: "www.videohive.net",
+        preview: "https://decorup.pk",
         link: "https://decorup.pk",
       },
     ],
